@@ -1,0 +1,12 @@
+// minDFA
+digraph {
+	A [label=A]
+	B [label=B]
+	C [label=C]
+	A -> B [label=a]
+	A -> A [label=b]
+	B -> B [label=a]
+	B -> C [label=b]
+	C -> B [label=a]
+	C -> A [label=b]
+}
