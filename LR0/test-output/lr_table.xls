@@ -1,0 +1,12 @@
+ 	 ACTION	 	 	 	 	 	 GOTO	 	 	
+ 	a	c	e	b	d	#	S	A	B	
+0	s2	  	  	  	  	  	1	  	  	
+1	  	  	  	  	  	acc	  	  	  	
+2	  	  	  	s4	  	  	  	3	  	
+3	  	s5	  	s6	  	  	  	  	  	
+4	r2	r2	r2	r2	r2	r2	  	  	  	
+5	  	  	  	  	s8	  	  	  	7	
+6	r3	r3	r3	r3	r3	r3	  	  	  	
+7	  	  	s9	  	  	  	  	  	  	
+8	r4	r4	r4	r4	r4	r4	  	  	  	
+9	r1	r1	r1	r1	r1	r1	  	  	  	
